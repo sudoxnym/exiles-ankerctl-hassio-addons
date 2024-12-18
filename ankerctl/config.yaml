@@ -1,5 +1,5 @@
 name: "ankerctl"
-description: "The official ankerctl addon"
+description: "The un-official ankerctl addon"
 version: "1.0.0-1"
 slug: "ankerctl"
 ingress: false # Doesn't work yet, might need some source code changes
