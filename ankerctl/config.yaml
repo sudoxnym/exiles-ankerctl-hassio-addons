@@ -1,7 +1,7 @@
-name: "ankerctl"
+name: "exiles-ankerctl"
 description: "The un-official ankerctl addon"
 version: "1.0.0-1"
-slug: "ankerctl"
+slug: "exiles-ankerctl"
 ingress: false # Doesn't work yet, might need some source code changes
 ingress_port: 4470
 ingress_stream: false
